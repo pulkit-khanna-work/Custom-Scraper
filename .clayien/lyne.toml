@@ -1,0 +1,6 @@
+language = "Python"
+init_command = "pip install -r requirements.txt"
+
+[environment]
+command = "conda"
+name = "pp"
